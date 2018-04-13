@@ -9,7 +9,7 @@ More to come...
 ```
 # Include all ".sh" files directly inside the functions directory.
 for f in ~/.bash/functions/*; do
-    if [[ $f == *.sh ]] && [[ ! "$f" =~ ^_ ]] ;
+    if [[ $f == *.sh ]] ;
     then
         . $f
     fi
