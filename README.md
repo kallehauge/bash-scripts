@@ -1,10 +1,9 @@
 # Bash scripts and functions
 
-This is some of the functions and script I use in my day-to-day life.
+Random collection of scripts and functions that I periodically use depending on what project(s) I'm working on.
 
-More to come...
 
-## My script to include all used functions direcrtly inside the functions directory.
+## My "include all functions" script to include all used functions direcrtly inside the functions directory.
 
 ```
 # Include all ".sh" files directly inside the functions directory.
