@@ -5,7 +5,9 @@ Random collection of scripts and functions that I periodically use depending on 
 
 ## Usage
 
-I have my old trusty "include all functions" script so I don't have to do it one by one:
+I have my old trusty "include all functions" script so I don't have to do it one by one.
+
+It does assume this project was cloned into `~/.bash`, so watch out for that.
 
 ```
 # Include all ".sh" files directly inside the functions directory.
