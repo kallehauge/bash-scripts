@@ -3,7 +3,9 @@
 Random collection of scripts and functions that I periodically use depending on what project(s) I'm working on.
 
 
-## My "include all functions" script to include all used functions direcrtly inside the functions directory.
+## Usage
+
+I have my old trusty "include all functions" script so I don't have to do it one by one:
 
 ```
 # Include all ".sh" files directly inside the functions directory.
